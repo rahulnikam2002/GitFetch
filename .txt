@@ -1,1 +1,7 @@
 https://api.github.com/users
+
+Functionalities => {
+    1. Can search the code
+    2. Can search the repositories
+    3. Can search the user's data
+}
